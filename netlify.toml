@@ -1,0 +1,4 @@
+[build]
+  publish = "public"
+  # Se você precisar de um comando específico para construir seu site, adicione aqui
+  # command = "npm run build"
